@@ -1,0 +1,6 @@
+@itm8_kodtest_HostAddress = http://localhost:5187
+
+GET {{itm8_kodtest_HostAddress}}
+Accept: application/json
+
+###
